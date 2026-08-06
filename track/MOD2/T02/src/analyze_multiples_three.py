@@ -15,4 +15,4 @@ print(f"Total: {total}")
 if found==True:
     print("Target Found: Yes")
 else:
-    print("Target Found: No")    
+    print("Target Found: No")   
